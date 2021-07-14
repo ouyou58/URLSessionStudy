@@ -1,6 +1,6 @@
 # URLSessionStudy
 记录了关于通信的基础学习
-・只有url的通信
+・目前只有url的通信
 
 
 
